@@ -16,5 +16,4 @@ The projects demonstrate the use of LabVIEW as a powerful tool for building virt
 * **Interface Design:** Interactive Front Panels featuring clusters, numeric indicators, and graphical arrays for real-time data visualization.
 * **Logic Modules:** Modular code design (SubVIs) to handle specific tasks like file reading or segment decoding.
 
-## 📸 Visual Documentation
-Since .vi files are binary and cannot be viewed directly on GitHub, I have included screenshots of the **Front Panels** and **Block Diagrams** in the `/screenshots` folder to showcase the underlying logic and interface design.
+
